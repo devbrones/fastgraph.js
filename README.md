@@ -4,8 +4,6 @@ A library in Javascript to create graphs in the browser similar to Unreal Bluepr
 
 It can be integrated easily in any existing web applications and graphs can be run without the need of the editor.
 
-Try it in the [demo site](https://tamats.com/projects/litegraph/editor).
-
 ![Node Graph](imgs/node_graph_example.png "WebGLStudio")
 
 ## Features
@@ -136,20 +134,9 @@ node_time.connect( 0, node_console, 1 );
 graph.start()
 ```
 
-
 ## Projects using it
 
-### [webglstudio.org](http://webglstudio.org)
-
-![WebGLStudio](imgs/webglstudio.gif "WebGLStudio")
-
-### [MOI Elephant](http://moiscript.weebly.com/elephant-systegraveme-nodal.html)
-
-![MOI Elephant](imgs/elephant.gif "MOI Elephant")
-
-### Mynodes
-
-![MyNodes](imgs/mynodes.png "MyNodes")
+### [Magisim](https://magisim.com)
 
 ## Utils
 -----
